@@ -1,0 +1,15 @@
+timestamp,username,source_ip,event_type,status,location,device
+2026-10-15 08:00:12,j.smith,203.0.113.10,login,success,Ireland,Windows 11
+2026-10-15 09:14:02,j.smith,198.51.100.23,login,failed,Unknown,Windows 10
+2026-10-15 09:14:18,j.smith,198.51.100.23,login,failed,Unknown,Windows 10
+2026-10-15 09:14:31,j.smith,198.51.100.23,login,failed,Unknown,Windows 10
+2026-10-15 09:14:47,j.smith,198.51.100.23,login,failed,Unknown,Windows 10
+2026-10-15 09:15:03,j.smith,198.51.100.23,login,failed,Unknown,Windows 10
+2026-10-15 09:15:19,j.smith,198.51.100.23,login,failed,Unknown,Windows 10
+2026-10-15 09:15:34,j.smith,198.51.100.23,login,failed,Unknown,Windows 10
+2026-10-15 09:15:51,j.smith,198.51.100.23,login,failed,Unknown,Windows 10
+2026-10-15 09:16:07,j.smith,198.51.100.23,login,failed,Unknown,Windows 10
+2026-10-15 09:16:23,j.smith,198.51.100.23,login,failed,Unknown,Windows 10
+2026-10-15 09:17:01,j.smith,198.51.100.23,login,success,Unknown,Windows 10
+2026-10-15 10:30:15,m.jones,203.0.113.10,login,success,Ireland,Windows 11
+2026-10-15 11:05:42,a.brown,203.0.113.15,login,success,Ireland,Windows 11
